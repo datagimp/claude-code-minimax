@@ -1,0 +1,5 @@
+# Local secrets — never commit
+.minimax-key
+
+# Claude Code local settings (per-user)
+.claude/settings.local.json
